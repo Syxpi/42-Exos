@@ -121,7 +121,14 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 
 ![C System Interface Tries](./Images/C-System-Interface-Tries.png)
 
----
+### 🧠 Module : Data Structures
+**Vue d'ensemble** :
+
+![Vue d'ensemble de Data Structures](./Images/Data-Structures.png)
+
+| Projet | Tentatives | Statut | Date Début/Fin |
+| :--- | :--- | :--- | :--- |
+| **[C Strings](./Data%20Structures/C-Strings) | [En Cours] | ⏳ | 23/03/2026 20h21 - ??? |
 
 ## 📝 Mes Examens
 | Examen | Score | Résultat | Raison | 
@@ -151,10 +158,15 @@ Au jour ou j'ecrit ces lignes (23/03/2026), j'espere que cela ne va pas m'impact
 Le code est organisé par module, tel que vu dans mon architecture locale :
 ```Shell
 ├── 42-Docs # Liste de toutes les Documentations de cette Piscine.
+│   ├── Data Structures
 │   ├── Imperative Programming
 │   ├── Memory Management
+│   ├── Norminette # Documentation de comment fonctionne la Norme
 │   ├── Shell
 │   └── Tutorial
+├── Data Structures # Gestion de Structure 
+│   ├── C-Strings
+│   └── C-Structures # Pas encore fait
 ├── Imperative Programming # Les bases du C et de l'algo.
 │   ├── C-Algorithmics-Fundamentals
 │   ├── C-Characters-Arithmetics
