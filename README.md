@@ -7,7 +7,7 @@ Bienvenue sur mon dépôt regroupant mes exercices et projets réalisés à **42
 > [!NOTE]
 > Quelques jours apres ma piscine, je risque de faire un article sur mon [site](https://syxpi.fr), Je vous conseille de regarder regulierement 👀
 ## 📊 Mon État d'Avancement
-* **Niveau Actuel :** `Level 3 [45/100 XP]`
+* **Niveau Actuel :** `Level 3 [55/100 XP]`
 
 ![Level](./Images/Level.png)
 
@@ -96,7 +96,7 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 | **[C Pointers](./Memory%20Management/C-Pointers/)** | 1 Attempt | ✅ Success | 10/03/2026 9h29 (la fin a été genre quelques heures après) |
 | **[C Simple strings](./Memory%20Management/C-Simple-Strings/)** | 3 Attempts | ✅ Success | 10/03/2026 17h49 - 11/03/2026 11h04 |
 | **[C Function Pointers](./Memory%20Management/C-Function-Pointers/)** | 4 Attempts | ✅ Success | 16/03/2026 13h24 - 19/03/2026 12h22 |
-| **[C Memory Management](./Memory%20Management/C-Memory-Management/)** | [En cours] | ⏳ | 19/03/2026 14h07 - ??? |
+| **[C Memory Management](./Memory%20Management/C-Memory-Management/)** | 5 Attempts | ✅ Success | 19/03/2026 14h07 - 23/03/2026 20h18 |
 | **[C System Interface](./Memory%20Management/C-System-Interface/)** | [En cours] | ⏳ | 19/03/2026 12h24 - ??? |
 
 **Tout mes Tries Reussis** :
