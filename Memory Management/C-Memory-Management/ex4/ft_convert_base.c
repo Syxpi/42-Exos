@@ -6,14 +6,14 @@
 /*   By: lclerel- <lclerel-@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/17 14:20:07 by lclerel-          #+#    #+#             */
-/*   Updated: 2026/03/19 11:36:19 by lclerel-         ###   ########.fr       */
+/*   Updated: 2026/03/23 15:40:05 by lclerel-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 #include <stdlib.h>
 
-void	ft_putstr(char *str);
+/*void	ft_putstr(char *str);*/
 
 int		ft_strlen(char *str);
 
@@ -101,7 +101,7 @@ char	*ft_convert_base(char *nbr, char *base_from, char *base_to)
 	ft_populate_res(res, n, base_to, size);
 	return (res);
 }
-
+/*
 int	main(void)
 {
 	char	*result;
@@ -197,4 +197,4 @@ int	main(void)
 		free(result);
 	}
 	return (0);
-}
+}*/

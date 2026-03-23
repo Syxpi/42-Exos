@@ -6,7 +6,7 @@
 /*   By: lclerel- <lclerel-@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/16 14:44:51 by lclerel-          #+#    #+#             */
-/*   Updated: 2026/03/19 14:05:04 by lclerel-         ###   ########.fr       */
+/*   Updated: 2026/03/23 15:39:50 by lclerel-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,7 @@ int	*ft_range(int min, int max)
 	}
 	return (range);
 }
-
+/*
 void	ft_putchar(char c)
 {
 	write(1, &c, 1);
@@ -113,4 +113,4 @@ int	main(void)
 	if (tab_err)
 		free(tab_err);
 	return (0);
-}
+}*/
