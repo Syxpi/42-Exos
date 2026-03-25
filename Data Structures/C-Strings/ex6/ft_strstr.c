@@ -6,7 +6,7 @@
 /*   By: lclerel- <lclerel-@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/24 18:09:44 by lclerel-          #+#    #+#             */
-/*   Updated: 2026/03/24 18:41:42 by lclerel-         ###   ########.fr       */
+/*   Updated: 2026/03/25 11:15:55 by lclerel-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,8 +31,8 @@ char	*ft_strstr(char *str, char *to_find)
 	}
 	return (0);
 }
-/*
-int	main(void)
+
+/*int	main(void)
 {
 	char	*st = "JVE!5toU6Bnd1Dn8zBs2h3kLM9Fkeo=;Cj>=THqcN;5iJS5$JKw3E4iJuc";
 	char	*find = "j>=THqcN;5";
@@ -42,7 +42,7 @@ int	main(void)
 	if (res)
 	{
 		write(1, "J'ai un truc ! C'est SA : ", 26);
-		write(1, res, 10); 
+		write(1, res, 16); 
 		write(1, "\n", 1);
 	}
 	else
