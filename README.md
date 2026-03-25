@@ -128,7 +128,8 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 
 | Projet | Tentatives | Statut | Date Début/Fin |
 | :--- | :--- | :--- | :--- |
-| **[C Strings](./Data%20Structures/C-Strings) | [En Cours] | ⏳ | 23/03/2026 20h21 - ??? |
+| **[C Strings](./Data%20Structures/C-Strings)** | [En Cours] | ⏳ | 23/03/2026 20h21 - ??? |
+| **[C Structures](./Data%20Structures/C-Structures)** | [En Cours] | ⏳ | 25/03/2026 16h12 - ??? |
 
 ## 📝 Mes Examens
 | Examen | Score | Résultat | Raison | 

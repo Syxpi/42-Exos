@@ -6,7 +6,7 @@
 /*   By: lclerel- <lclerel-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/24 13:44:05 by lclerel-          #+#    #+#             */
-/*   Updated: 2026/03/24 15:55:22 by lclerel-         ###   ########.fr       */
+/*   Updated: 2026/03/25 16:39:44 by lclerel-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,11 +17,11 @@ int	ft_strcmp(char *s1, char *s2)
 	int	i;
 
 	i = 0;
-	while (s1[i] != '\0' && s1[i] == s2[i])
+	while ((s1[i] || s2[i]) && s1[i] == s2[i])
 		i++;
 	return ((unsigned char)s1[i] - (unsigned char)s2[i]);
 }
-/*
+
 void	ft_putchar(char chara)
 {
 	write(1, &chara, 1);
@@ -38,7 +38,7 @@ void	ft_putstr(char *str)
 		i++;
 	}
 }
-
+/*
 int	main(void)
 {
 	char	*s1 = "Lumi";
@@ -80,4 +80,5 @@ int	main(void)
 		write(1, "Test 3 : Not OK :(", 18);
 	ft_putchar('\n');
 	return (0);
-}*/
+}
+*/
