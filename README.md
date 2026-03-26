@@ -131,6 +131,12 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 | **[C Strings](./Data%20Structures/C-Strings)** | 3 Attempts | ✅ Success | 23/03/2026 20h21 - 26/03/2026 2h04 |
 | **[C Structures](./Data%20Structures/C-Structures)** | [En Cours] | ⏳ | 25/03/2026 16h12 - ??? |
 
+**Tout mes Tries Reussis** :
+
+- C-Strings :
+
+![C-Strings Tries](./Images/C-Strings-Tries.png)
+
 ## 📝 Mes Examens
 | Examen | Score | Résultat | Raison | 
 | :--- | :--- | :--- | :--- | 
