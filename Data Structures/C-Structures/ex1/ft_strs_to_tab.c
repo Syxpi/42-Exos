@@ -6,7 +6,7 @@
 /*   By: lclerel- <lclerel-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/25 22:54:18 by lclerel-          #+#    #+#             */
-/*   Updated: 2026/03/26 01:19:03 by lclerel-         ###   ########.fr       */
+/*   Updated: 2026/03/26 02:07:14 by lclerel-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -74,7 +74,7 @@ int	ft_strlen(char *str)
 	}
 	return (i);
 }
-/*
+
 void	ft_putstr(char *str)
 {
 	int	i;
@@ -156,24 +156,24 @@ int	main(int argc, char **argv)
 		ft_putstr("|        Taille :          |\n");
 		ft_putstr("| > ");
 		ft_putnbr(tab[i].size);
-		spaces = 26 - 4 - ft_nbrlen(tab[i].size);
+		spaces = 27 - 4 - ft_nbrlen(tab[i].size);
 		ft_stylebox(spaces);
 		ft_putstr("|\n");
 		ft_putstr("|        String :          |\n");
 		ft_putstr("| > ");
         ft_putstr(tab[i].str);
-		spaces = 26 - 4 - ft_strlen(tab[i].str);
+		spaces = 27 - 4 - ft_strlen(tab[i].str);
         ft_stylebox(spaces);
 		ft_putstr("|\n");
 		ft_putstr("|                          |\n");
 		ft_putstr("|        Result :          |\n");
 		ft_putstr("| > ");
 		ft_putstr(tab[i].copy);
-		spaces = 26 - 4 - ft_strlen(tab[i].copy);
+		spaces = 27 - 4 - ft_strlen(tab[i].copy);
         ft_stylebox(spaces);
 		ft_putstr("|\n");
 		ft_putstr("\\==========================/\n\n");
 		i++;
 	}
 	return (0);
-}*/
+}
