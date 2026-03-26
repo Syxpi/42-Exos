@@ -7,7 +7,7 @@ Bienvenue sur mon dépôt regroupant mes exercices et projets réalisés à **42
 > [!NOTE]
 > Quelques jours apres ma piscine, je risque de faire un article sur mon [site](https://syxpi.fr), Je vous conseille de regarder regulierement 👀
 ## 📊 Mon État d'Avancement
-* **Niveau Actuel :** `Level 3 [75/100 XP]`
+* **Niveau Actuel :** `Level 3 [88/100 XP]`
 
 ![Level](./Images/Level.png)
 
@@ -128,7 +128,7 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 
 | Projet | Tentatives | Statut | Date Début/Fin |
 | :--- | :--- | :--- | :--- |
-| **[C Strings](./Data%20Structures/C-Strings)** | [En Cours] | ⏳ | 23/03/2026 20h21 - ??? |
+| **[C Strings](./Data%20Structures/C-Strings)** | 3 Attempts | ✅ Success | 23/03/2026 20h21 - 26/03/2026 2h04 |
 | **[C Structures](./Data%20Structures/C-Structures)** | [En Cours] | ⏳ | 25/03/2026 16h12 - ??? |
 
 ## 📝 Mes Examens
