@@ -6,7 +6,7 @@
 /*   By: lclerel- <lclerel-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/25 22:54:18 by lclerel-          #+#    #+#             */
-/*   Updated: 2026/03/26 02:07:14 by lclerel-         ###   ########.fr       */
+/*   Updated: 2026/03/26 02:36:29 by lclerel-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -74,7 +74,7 @@ int	ft_strlen(char *str)
 	}
 	return (i);
 }
-
+/*
 void	ft_putstr(char *str)
 {
 	int	i;
@@ -176,4 +176,4 @@ int	main(int argc, char **argv)
 		i++;
 	}
 	return (0);
-}
+}*/
