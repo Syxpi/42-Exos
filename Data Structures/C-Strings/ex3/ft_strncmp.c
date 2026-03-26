@@ -6,10 +6,11 @@
 /*   By: lclerel- <lclerel-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/24 13:44:05 by lclerel-          #+#    #+#             */
-/*   Updated: 2026/03/25 16:39:14 by lclerel-         ###   ########.fr       */
+/*   Updated: 2026/03/25 22:46:55 by lclerel-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include <unistd.h>
 
 int	ft_strncmp(char *s1, char *s2, unsigned int n)
 {

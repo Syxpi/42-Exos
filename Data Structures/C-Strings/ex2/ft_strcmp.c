@@ -6,7 +6,7 @@
 /*   By: lclerel- <lclerel-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/24 13:44:05 by lclerel-          #+#    #+#             */
-/*   Updated: 2026/03/25 16:39:44 by lclerel-         ###   ########.fr       */
+/*   Updated: 2026/03/25 22:46:26 by lclerel-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ int	ft_strcmp(char *s1, char *s2)
 	return ((unsigned char)s1[i] - (unsigned char)s2[i]);
 }
 
-void	ft_putchar(char chara)
+/*void	ft_putchar(char chara)
 {
 	write(1, &chara, 1);
 }
@@ -38,7 +38,7 @@ void	ft_putstr(char *str)
 		i++;
 	}
 }
-/*
+
 int	main(void)
 {
 	char	*s1 = "Lumi";
