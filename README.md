@@ -7,7 +7,7 @@ Bienvenue sur mon dépôt regroupant mes exercices et projets réalisés à **42
 > [!NOTE]
 > Quelques jours apres ma piscine, je risque de faire un article sur mon [site](https://syxpi.fr), Je vous conseille de regarder regulierement 👀
 ## 📊 Mon État d'Avancement
-* **Niveau Actuel :** `Level 3 [88/100 XP]`
+* **Niveau Actuel :** `Level 4 [34/100 XP]`
 
 ![Level](./Images/Level.png)
 
@@ -26,7 +26,7 @@ Preuve ci-dessous :
 ## 📊 Vue de mon Holy Graph et Stats
 **Mon Holy Graph** : 
 
-![Holy Graph](./Images/HolyGraph.png)
+![Holy Graph](./Images/HolyG    raph.png)
 
 **Mes Stats de Venue**
 
@@ -121,7 +121,7 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 
 ![C System Interface Tries](./Images/C-System-Interface-Tries.png)
 
-### 🧠 Module : Data Structures
+### 🏗️ Module : Data Structures
 **Vue d'ensemble** :
 
 ![Vue d'ensemble de Data Structures](./Images/Data-Structures.png)
@@ -129,13 +129,46 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 | Projet | Tentatives | Statut | Date Début/Fin |
 | :--- | :--- | :--- | :--- |
 | **[C Strings](./Data%20Structures/C-Strings)** | 3 Attempts | ✅ Success | 23/03/2026 20h21 - 26/03/2026 2h04 |
-| **[C Structures](./Data%20Structures/C-Structures)** | [En Cours] | ⏳ | 25/03/2026 16h12 - ??? |
+| **[C Structures](./Data%20Structures/C-Structures)** | 1 Attempt | ✅ Success | 25/03/2026 16h12 - 26/03/2026 3h18 |
 
 **Tout mes Tries Reussis** :
 
 - C-Strings :
 
 ![C-Strings Tries](./Images/C-Strings-Tries.png)
+
+- C-Structures :
+
+![C-Structures Tries](./Images/C-Structures-Tries.png)
+
+### 🖥️ Module : Compilation and Preprocessing
+**Vue d'ensemble** :
+
+![Vue d'ensemble de Compilation and Preprocessing](./Images/Compilation-And-Preprocessing.png)
+
+| Projet | Tentatives | Statut | Date Début/Fin |
+| :--- | :--- | :--- | :--- |
+| **C Preprocessor** | Non Realisé | ❌ Echec | ??? |
+| **C Libft** | Non Realisé | ❌ Echec | ??? |
+
+### 👩🏻‍💻 Module : System Interface
+**Vue d'ensemble** :
+
+![Vue d'ensemble de System Interface](./Images/System-Interface.png)
+
+| Projet | Tentatives | Statut | Date Début/Fin |
+| :--- | :--- | :--- | :--- |
+| **C File Operations** | Non Realisé | ❌ Echec | ??? |
+
+### 🤷‍♀️ Module : Dynamic Data Structures
+**Vue d'ensemble** :
+
+![Vue d'ensemble de Dynamic Data Structures](./Images/Dynamic-Data-Structures.png)
+
+| Projet | Tentatives | Statut | Date Début/Fin |
+| :--- | :--- | :--- | :--- |
+| **C Linked Lists** | Non Realisé | ❌ Echec | ??? |
+| **C Binary Trees** | Non Realisé | ❌ Echec | ??? |
 
 ## 📝 Mes Examens
 | Examen | Score | Résultat | Raison | 
