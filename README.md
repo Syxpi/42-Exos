@@ -176,7 +176,7 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 | **Exam 00 (06/03/2026)** | 40/100 | ❌ Echouée | (Abandon sur putnbr) |
 | **Exam 01 (13/03/2026)** | 0/100 | ❌ Echouée | (Exclue d'exam injustement) |
 | **Exam 02 (20/03/2026)** | 10/100 | ❌ Echouée | (Problemes de santé) |
-| **Exam 03 (27/03/2026)** | ??/??? | A Venir | ??? |
+| **Exam 03 (27/03/2026)** | 31/100 | Échouée | (Abandon sur atoi, tout a été oublié) |
 
 - Mes Exams :
 
