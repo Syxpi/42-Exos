@@ -26,7 +26,7 @@ Preuve ci-dessous :
 ## 📊 Vue de mon Holy Graph et Stats
 **Mon Holy Graph** : 
 
-![Holy Graph](./Images/HolyG    raph.png)
+![Holy Graph](./Images/HolyGraph.png)
 
 **Mes Stats de Venue**
 
