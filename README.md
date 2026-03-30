@@ -178,6 +178,9 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 | **Exam 02 (20/03/2026)** | 10/100 | ❌ Echouée | (Problemes de santé) |
 | **Exam 03 (27/03/2026)** | 31/100 | ❌ Échouée | (Abandon sur atoi, tout a été oublié) |
 
+> [!NOTE]
+> Update 30/03/2026 : Me rappellant de comment s'est fini le dernier Exam, je me suis souvenue d'avoir fait crash (Error 500 Internal Server Error) Moulinette (celui de l'Examshell, pas le Normal). Et en faisant une connerie, j'ai juste pu get des infos un peu chelou sur Moulinette (Comme quoi Moulinette est en realiter du Python derriere. pour sa que le CC a changer ?)
+
 - Mes Exams :
 
 ![Exams](./Images/Exams-2026-03-23.png)
