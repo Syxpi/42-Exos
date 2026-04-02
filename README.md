@@ -198,6 +198,8 @@ C'est un choix réfléchi liée à ma situation personnelle : Souffrant de Dépr
 
 Au jour ou j'ecrit ces lignes (23/03/2026), j'espere que cela ne va pas m'impacter sur mon entrée a 42 Paris 
 
+Update 4/2/2026 : L'update a été drop plus haut.
+
 ---
 
 ## 📁 Structure du Dépôt
