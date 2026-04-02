@@ -213,6 +213,7 @@ Le code est organisé par module, tel que vu dans mon architecture locale :
 │   ├── Compilation and Preprocessing
 │   ├── Norminette # Documentation de comment fonctionne la Norme
 │   ├── Shell
+│   ├── Rushs # Les rushs present a 42
 │   └── Tutorial
 ├── Data Structures # Gestion de Structure 
 │   ├── C-Strings
