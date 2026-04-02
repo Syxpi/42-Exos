@@ -7,6 +7,7 @@ Bienvenue sur mon dépôt regroupant mes exercices et projets réalisés à **42
 > [!IMPORTANT]
 > On est le 2 Avril, on a eu les resultats, j'ai été recalée... j'suis degoutée a mort... Je sais pas si je retente 2027...
 
+![Resultat 42 Paris](./Images/chrome_iyDzH1ArUa.png)
 
 ## 📊 Mon État d'Avancement
 * **Niveau Actuel :** `Level 4 [34/100 XP]`
