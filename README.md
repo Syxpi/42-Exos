@@ -4,8 +4,10 @@ Bienvenue sur mon dépôt regroupant mes exercices et projets réalisés à **42
 
 ---
 
-> [!NOTE]
-> Quelques jours apres ma piscine, je risque de faire un article sur mon [site](https://syxpi.fr), Je vous conseille de regarder regulierement 👀
+> [!IMPORTANT]
+> On est le 2 Avril, on a eu les resultats, j'ai été recalée... j'suis degoutée a mort... Je sais pas si je retente 2027...
+
+
 ## 📊 Mon État d'Avancement
 * **Niveau Actuel :** `Level 4 [34/100 XP]`
 
