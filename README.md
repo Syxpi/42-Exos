@@ -26,8 +26,9 @@ Si ce repo vous plait (par X ou Y raisons), merci de laisser une petite étoile 
 
 ## ⛔ **Règle Anti-Triche** 
 > [!CAUTION]
-> Ce dépôt est public pour montrer mon évolution. Si tu vas tenter la piscine a 42, copier ce code pour tes rendus est **strictement interdit**. C'est comptée comme de la triche, et c'est l'exclusion direct. Apprends par toi-même, c'est la seule façon de réussir les exams ! (et demande pas a ChatGPT c'est pire)
-Preuve ci-dessous : 
+> Ce dépôt est public pour montrer mon évolution. Si tu vas tenter la piscine a 42, copier ce code pour tes rendus est **strictement interdit**. C'est comptée comme de la triche, et c'est l'exclusion direct. Apprends par toi-même, c'est la seule façon de réussir les exams ! (et demande pas a ChatGPT c'est pire, Non, Claude c'est pire. Demande encore moins a Gemini, Ah tu parle de Mistral ? C'est dehors.)
+> 
+> Preuve ci-dessous : 
 
 ![Warning](./Images/Warn.png)
 
