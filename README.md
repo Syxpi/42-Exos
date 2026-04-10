@@ -53,6 +53,7 @@ Preuve ci-dessous :
 ## 🏗️ Détails des exercices réalisés
 
 Voici l'historique de mes validations. Chaque "Attempt" représente une étape de compréhension.
+
 (Tips : Evitez de tout rendre en un seul try, vous vous ferez suspecter de triche).
 
 ### 🐚 Module : Shell & Git
