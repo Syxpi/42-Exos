@@ -209,7 +209,7 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 
 ## 📝 Mes Examens
 | Examen | Score | Résultat | Raison | Heure de sortie de la salle d'exam |
-| :--- | :--- | :--- | :--- | 
+| :--- | :--- | :--- | :--- | :--- |
 | **Exam 00 (06/03/2026)** | 40/100 | ❌ Echouée | (Abandon sur putnbr) | 18h00 |
 | **Exam 01 (13/03/2026)** | 0/100 | ❌ Echouée | (Exclue d'exam injustement) | 15h50 (Exam meme pas commencer) |
 | **Exam 02 (20/03/2026)** | 10/100 | ❌ Echouée | (Problemes de santé) | 17h00 |
