@@ -54,7 +54,8 @@ Preuve ci-dessous :
 
 Voici l'historique de mes validations. Chaque "Attempt" représente une étape de compréhension.
 
-(Tips : Evitez de tout rendre en un seul try, vous vous ferez suspecter de triche).
+> [!IMPORTANT]
+> Tips : Evitez de tout rendre en un seul try, vous vous ferez suspecter de triche, et si vous vous faites suspecter de triche, preparez vous a vous faire virer de 42.
 
 ### 🐚 Module : Shell & Git
 **Vue d'ensemble** :
