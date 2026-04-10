@@ -5,7 +5,7 @@ Bienvenue sur mon dépôt regroupant mes exercices et projets réalisés à **42
 ---
 
 > [!IMPORTANT]
-> On est le 2 Avril, on a eu les resultats, j'ai été recalée... j'suis degoutée a mort... Je sais pas si je retente 2027...
+> On est le 2 Avril, on a eu les resultats, j'ai été refusée... j'suis degoutée a mort... Je sais pas si je retente 2027...
 
 ![Resultat 42 Paris](./Images/chrome_iyDzH1ArUa.png)
 
@@ -208,6 +208,7 @@ Le code est organisé par module, tel que vu dans mon architecture locale :
 ├── 42-Docs # Liste de toutes les Documentations de cette Piscine.
 │   ├── Data Structures
 │   ├── Imperative Programming
+│   ├── Dynamic Data Structures
 │   ├── Memory Management
 │   ├── System Interface
 │   ├── Compilation and Preprocessing
