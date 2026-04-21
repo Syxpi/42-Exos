@@ -60,7 +60,7 @@ Voici l'historique de mes validations. Chaque "Attempt" représente une étape d
 >
 > cf. [⛔ Règle Anti-Triche](#-règle-anti-triche)
 
-### 🐚 Module : Shell & Git
+### 🐚 Module : Shell
 **Vue d'ensemble** :
 
 ![Vue d'ensemble de Shell](./Images/Shell.png)
