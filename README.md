@@ -21,6 +21,9 @@ Si ce repo vous plait (par X ou Y raisons), merci de laisser une petite étoile 
 >
 > **Update 10 Avril 2026** :
 > Toujours en periode de doute, mais je pense retry, mais j'aurait pas le droit a l'erreur.
+>
+> **Update 2 Mai 2026** :
+> Finalement, je veut retester. Mais je viens pas les mains vides. Je veut marquer 42, je veut montrer que la premiere fois, j'me suis fait avoir par ma santé, mais que maintenant, ce sera Échec et Mat.
 
 ![Resultat 42 Paris](./Images/chrome_iyDzH1ArUa.png)
 
